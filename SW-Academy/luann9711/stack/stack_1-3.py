@@ -1,5 +1,3 @@
-import sys
-
 # 테스트 케이스 입력
 try:
     t = int(input('테스트 케이스 입력 : '))
@@ -20,15 +18,15 @@ def pop(stack):
 
 
 def dfs(x):
-        visted[x] = True
-        push(stack, x)
+    visted[x] = True
+    push(stack, x)
 
-        for y in way_list[x]:
-            if visted[y] == False:
-                dfs(y)
-            
-            if y == b:
-                return True
+    for y in way_list[x]:
+        if visted[y] == False:
+            dfs(y)
+        
+        if y == b:
+            return True
 
 while t > 0:
     try:

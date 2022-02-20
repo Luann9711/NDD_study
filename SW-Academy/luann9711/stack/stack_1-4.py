@@ -9,14 +9,14 @@ if not(1 <= t <= 50):
 c = t + 1
 
 def check_word(check_list):
-        for idx in range(len(check_list)):
-            if idx >= len(check_list) - 1:
-                break
+    for idx in range(len(check_list)):
+        if idx >= len(check_list) - 1:
+            break
 
-            if check_list[idx] == check_list[idx + 1]:
-                del check_list[idx + 1], check_list[idx]
-                check_word(check_list)
-        return len(check_list)
+        if check_list[idx] == check_list[idx + 1]:
+            del check_list[idx + 1], check_list[idx]
+            check_word(check_list)
+    return len(check_list)
 
 while t > 0:
     try:

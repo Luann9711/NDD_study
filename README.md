@@ -24,7 +24,8 @@
 > Coding Style: [PEP8](https://www.python.org/dev/peps/pep-0008/), [Google](https://google.github.io/styleguide/pyguide.html)  
 > Tools  
 >   - Formatter: Black
->   - Linter: Pyright
+>   - Linter: Pylint
+>   - LSP: Pyright
 
 
 #Reference

@@ -5,7 +5,7 @@
 [@hawk90](https://github.com/hawk90)  
 [@boron-nadaedae](https://github.com/boron-nadaedae)  
 [@Luann9711](https://github.com/Luann9711)  
-[@seoleob](https://github.com/seoleob) 
+[@seoleob](https://github.com/seoleob)  
 [@nkimj505](https://github.com/nkim505)  
 [@Jangsehawn](https://github.com/Jangsehawn)  
 

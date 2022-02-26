@@ -7,7 +7,11 @@
 [@Luann9711](https://github.com/Luann9711)  
 [@seoleob](https://github.com/seoleob)  
 [@nkimj505](https://github.com/nkim505)  
-[@Jangsehawn](https://github.com/Jangsehawn)  
+[@Jangsehawn](https://github.com/Jangsehawn) 
+
+<a href="https://github.com/hawk90/NDD_study/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hawk90/NDD_study"/>
+</a>
 
 
 # Environmnet

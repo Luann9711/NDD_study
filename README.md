@@ -2,10 +2,16 @@
 
 
 # Member
-@hawk90  
-@boron-nadaedae  
-@Luann9711  
-@seoleob  
+[@hawk90](https://github.com/hawk90)  
+[@boron-nadaedae](https://github.com/boron-nadaedae)  
+[@Luann9711](https://github.com/Luann9711)  
+[@seoleob](https://github.com/seoleob)  
+[@nkimj505](https://github.com/nkim505)  
+[@Jangsehawn](https://github.com/Jangsehawn) 
+
+<a href="https://github.com/hawk90/NDD_study/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hawk90/NDD_study"/>
+</a>
 
 
 # Environmnet
@@ -24,4 +30,16 @@
 > Coding Style: [PEP8](https://www.python.org/dev/peps/pep-0008/), [Google](https://google.github.io/styleguide/pyguide.html)  
 > Tools  
 >   - Formatter: Black
->   - Linter: Pyright
+>   - Linter: Pylint
+>   - LSP: Pyright
+
+
+#Reference
+### for Programmers
+
+### for Algorithm Learners
+
+### for CPP Developers
+>   - [CppGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
+### for Python Developers
